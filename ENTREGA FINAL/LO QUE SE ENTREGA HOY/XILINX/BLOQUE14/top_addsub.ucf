@@ -1,0 +1,30 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "AN_0" LOC = F12;
+NET "AN_1" LOC = J12;
+NET "AN_2" LOC = M13;
+NET "AN_3" LOC = K14;
+NET "SEG_A" LOC = L14;
+NET "SEG_B" LOC = H12;
+NET "SEG_C" LOC = N14;
+NET "SEG_D" LOC = N11;
+NET "SEG_DT" LOC = N13;
+NET "SEG_E" LOC = P12;
+NET "SEG_F" LOC = L13;
+NET "SEG_G" LOC = M12;
+NET "OPA[0]" LOC = P11;
+NET "OPA[1]" LOC = L3;
+NET "OPA[2]" LOC = K3;
+NET "OPA[3]" LOC = B4;
+NET "OPB[0]" LOC = G3;
+NET "OPB[1]" LOC = F3;
+NET "OPB[2]" LOC = E2;
+NET "OPB[3]" LOC = N3;
+NET "RES_SUM" LOC = G1;
+NET "OV" LOC = P4;
+NET "CO" LOC = N4;
+NET "S[0]" LOC = M5;
+NET "S[1]" LOC = M11;
+NET "S[2]" LOC = P7;
+NET "S[3]" LOC = P6;

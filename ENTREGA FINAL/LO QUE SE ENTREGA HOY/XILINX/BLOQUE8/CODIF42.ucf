@@ -1,0 +1,26 @@
+
+
+NET "I0" LOC = G12;
+NET "I1" LOC = C11;
+NET "I2" LOC = M4;
+NET "E0" LOC = G1;
+NET "EI" LOC = N3;
+NET "I3" LOC = A7;
+NET "S0" LOC = M5;
+NET "S1" LOC = M11;
+
+# PlanAhead Generated physical constraints 
+
+NET "SEG_A" LOC = L14;
+NET "SEG_B" LOC = H12;
+NET "SEG_C" LOC = N14;
+NET "SEG_D" LOC = N11;
+NET "SEG_E" LOC = P12;
+NET "SEG_F" LOC = L13;
+NET "SEG_G" LOC = M12;
+NET "A" LOC = P4;
+NET "AN_0" LOC = K14;
+NET "AN_1" LOC = M13;
+NET "AN_2" LOC = J12;
+NET "AN_3" LOC = F12;
+NET "SEG_DT" LOC = N13;
